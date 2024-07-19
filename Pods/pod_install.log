@@ -1,0 +1,9 @@
+Analyzing dependencies
+Downloading dependencies
+[32mInstalling AFNetworking (4.0.1)[0m
+[32mInstalling Masonry (1.1.0)[0m
+Generating Pods project
+Integrating client project
+[32m
+[!] Please close any current Xcode sessions and use `Demo04.xcworkspace` for this project from now on.[0m
+[32mPod installation complete! There are 2 dependencies from the Podfile and 2 total pods installed.[0m
